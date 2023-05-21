@@ -7,4 +7,5 @@ Metal device set to: Apple M1 Max
 2023-03-30 17:25:05.176480: I tensorflow/core/distributed_runtime/rpc/grpc_server_lib.cc:427] Started server with target: grpc://localhost:23456
 MOD on GIT
 MOD on MAC
+MOD on WIN
 
