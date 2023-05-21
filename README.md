@@ -8,4 +8,5 @@ Metal device set to: Apple M1 Max
 MOD on GIT
 MOD on MAC
 MOD on WIN
+MOD on MAC2
 
